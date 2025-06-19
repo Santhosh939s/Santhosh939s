@@ -1,5 +1,33 @@
 <h1 align="center">Hi 👋, I'm MADDILA SANTHOSH KUMAR</h1>
 <h3 align="center">A Passionate Computer Science Enthusiast from Tirupati, India</h3>
+<h3 align="center">Code Connected... 🤝 <img src="https://img.shields.io/badge/-hola-black?style=flat-square"/></h3>
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/M-red?style=flat-square&labelColor=red" />
+  <img src="https://img.shields.io/badge/A-orange?style=flat-square&labelColor=orange" />
+  <img src="https://img.shields.io/badge/D-teal?style=flat-square&labelColor=teal" />
+  <img src="https://img.shields.io/badge/D-gold?style=flat-square&labelColor=gold" />
+  <img src="https://img.shields.io/badge/I-blue?style=flat-square&labelColor=blue" />
+  <img src="https://img.shields.io/badge/L-indigo?style=flat-square&labelColor=indigo" />
+  <img src="https://img.shields.io/badge/A-purple?style=flat-square&labelColor=purple" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/S-yellow?style=flat-square&labelColor=yellow" />
+  <img src="https://img.shields.io/badge/A-green?style=flat-square&labelColor=green" />
+  <img src="https://img.shields.io/badge/N-red?style=flat-square&labelColor=red" />
+  <img src="https://img.shields.io/badge/T-orange?style=flat-square&labelColor=orange" />
+  <img src="https://img.shields.io/badge/H-gold?style=flat-square&labelColor=gold" />
+  <img src="https://img.shields.io/badge/O-indigo?style=flat-square&labelColor=indigo" />
+  <img src="https://img.shields.io/badge/S-brown?style=flat-square&labelColor=brown" />
+  <img src="https://img.shields.io/badge/H-blue?style=flat-square&labelColor=blue" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/K-red?style=flat-square&labelColor=red" />
+  <img src="https://img.shields.io/badge/U-orange?style=flat-square&labelColor=orange" />
+  <img src="https://img.shields.io/badge/M-green?style=flat-square&labelColor=green" />
+  <img src="https://img.shields.io/badge/A-purple?style=flat-square&labelColor=purple" />
+  <img src="https://img.shields.io/badge/R-cyan?style=flat-square&labelColor=cyan" />
+</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Aspiring+Full+Stack+Developer;Python+%7C+HTML+%7C+CSS+%7C+JavaScript;Loves+Web+Projects+%26+Automation" alt="Typing SVG" />
