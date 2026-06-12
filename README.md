@@ -207,7 +207,7 @@ https://drive.google.com/file/d/1bL2Do8r-bwMw5rzPGr6hV1FLwm9sl2qX/view
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://santhosh939s.github.io/my-portfolio-with-css/">
+<a href="https://santhosh939s.github.io/Professional-Portfolio/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 
